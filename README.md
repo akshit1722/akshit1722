@@ -123,12 +123,24 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=akshit1722&show_icons=true&theme=radical&hide_border=false&count_private=true" alt="Akshit's GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshit1722&layout=compact&theme=radical&hide_border=false" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=akshit1722&show_icons=true&theme=radical" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshit1722&layout=compact&theme=radical" />
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=akshit1722&theme=radical&hide_border=false" alt="GitHub Streak" />
+  <img height="165" src="https://streak-stats.demolab.com?user=akshit1722&theme=radical" />
+</p>
+
+---
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akshit1722/akshit1722/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akshit1722/akshit1722/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/akshit1722/akshit1722/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
 </p>
 
 ---
