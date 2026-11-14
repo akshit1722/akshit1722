@@ -104,7 +104,7 @@
 
 | Project | Tech Stack | Key Highlights | Links |
 | :--- | :--- | :--- | :--- |
-| **[Project Name 1](https://github.com/akshit1722/repo-name)** | `React` `FastAPI` `PostgreSQL` | Real-time full stack web application with AI integration & responsive UI | [📂 Repo](https://github.com/akshit1722) • [🌐 Live Demo](https://vercel.com) |
+| **[Cheap Phone Test](private)** | `React` `FastAPI` `PostgreSQL` | Real-time full stack web application with AI integration & responsive UI | [📂 Repo](https://github.com/akshit1722) • [🌐 Live Demo](https://cheap-phone-test.vercel.app/) |
 | **[Project Name 2](https://github.com/akshit1722/repo-name)** | `Node.js` `Express` `MongoDB` | RESTful API service featuring JWT authentication and scalable data handling | [📂 Repo](https://github.com/akshit1722) • [🌐 Live Demo](https://railway.app) |
 
 <!-- 
@@ -123,14 +123,20 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=akshit1722&show_icons=true&theme=radical" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshit1722&layout=compact&theme=radical" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=akshit1722&show_icons=true&theme=radical&cache_seconds=1800" alt="GitHub Stats" />
+  <img height="165" src="https://streak-stats.demolab.com?user=akshit1722&theme=radical" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=akshit1722&theme=radical" />
-</p>
+<!-- 
+  💡 NOTE ON TOP LANGUAGES:
+  The Top Languages card needs public repositories containing code (Python, C++, JS, etc.) 
+  to compute percentages. Once you push your project repositories, uncomment this:
 
+-->
+
+  <p align="center">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshit1722&layout=compact&theme=radical&cache_seconds=1800" alt="Top Languages" />
+  </p>
 ---
 
 ## 🐍 Contribution Graph
