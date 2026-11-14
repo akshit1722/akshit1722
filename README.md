@@ -132,11 +132,10 @@
   The Top Languages card needs public repositories containing code (Python, C++, JS, etc.) 
   to compute percentages. Once you push your project repositories, uncomment this:
 
--->
-
   <p align="center">
     <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshit1722&layout=compact&theme=radical&cache_seconds=1800" alt="Top Languages" />
   </p>
+-->
 ---
 
 ## 🐍 Contribution Graph
