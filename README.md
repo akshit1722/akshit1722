@@ -12,7 +12,7 @@
 
 - 🎓 **Education:** 1st Year B.Tech in **Computer Science & Engineering (CSE)** at **Delhi Technological University (DTU)**
 - 💼 **Experience:** Intern at **Gemedge**
-- 🏆 **Hackathons:** 2× Finalist (**MLH Roundtable**), **Smart India Hackathon (SIH)** Internal Round Cleared
+- 🏆 **Hackathons:** 2× Finalist (**MLH Roundtable** and **Hackfront**), **Smart India Hackathon (SIH)** Internal Round Cleared
 - 🛠️ **Core Focus:** Full Stack Web Development & AI/ML Integrations
 - 🌱 **Currently Exploring:** Scalable backend architectures, distributed systems & modern AI workflows
 - 💣 **Fun fact:** I don't debug, I hunt bugs!
